@@ -17,6 +17,23 @@ export function SiteFooter() {
           <Link href="/about" className="hover:text-primary">About</Link>
         </nav>
       </div>
+      <div className="border-t border-border/60">
+        <p className="mx-auto w-full max-w-6xl px-4 py-4 text-center text-xs text-muted-foreground sm:px-6">
+          Developed by Maksym Sverlovych |{" "}
+          <a href="mailto:msverlovych@gmail.com" className="hover:text-primary">
+            msverlovych@gmail.com
+          </a>{" "}
+          |{" "}
+          <a
+            href="https://www.linkedin.com/in/maksym-sverlovych-b28821198/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-primary"
+          >
+            LinkedIn
+          </a>
+        </p>
+      </div>
     </footer>
   );
 }

@@ -13,7 +13,7 @@ export default function AboutPage() {
       <h1 className="display mt-3 text-[clamp(3.2rem,8vw,5.5rem)]">A map made by someone who still uses one.</h1>
       <div className="mt-8 space-y-5 text-lg leading-8 text-muted-foreground">
         <p>
-          Maksym is a senior software developer working in React, Flutter, and Java. ITstar is the atlas he wanted on the desk: real materials, in an order a person can follow, with the marketing scraped off.
+          Maksym is a Senior Software Developer working with React, JavaScript, Node.js, Java, and iOS. ITstar is the atlas he wanted on the desk: real materials, in an order a person can follow, with the marketing scraped off.
         </p>
         <p>
           The site is for developers and for people who want to become one. It is not a course and it does not issue ranks as certificates. Spark, Apprentice, Knight, and Master are a pace. You move when the milestone is true.
